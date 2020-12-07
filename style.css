@@ -97,7 +97,7 @@ nav .login-btn a{
   color: #000;
 }
 .google i{
-  background: url(../img/google.png) no-repeat;
+  background: url(./google.png) no-repeat;
   width: 25px;
   height: 25px;
   margin-right: 10px;
